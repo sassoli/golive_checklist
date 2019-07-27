@@ -1,6 +1,7 @@
 # golive_checklist
 My checklist before golive a website
 
+- use https
 - Favicon
 - Metadescription
 - Robots.txt
