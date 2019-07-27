@@ -12,3 +12,4 @@ My checklist before golive a website
 - webmasters tool
 - check form email
 - check email, phone numbers, VAT number
+- enable gzip
