@@ -13,4 +13,4 @@ My checklist before golive a website
 - check form email
 - check email, phone numbers, VAT number
 - enable gzip
-- <meta name="format-detection" content="telephone=no">
+- format-detection no telephone
