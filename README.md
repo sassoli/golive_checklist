@@ -14,3 +14,4 @@ My checklist before golive a website
 - check email, phone numbers, VAT number
 - enable gzip
 - format-detection no telephone
+- wp default slogan update
